@@ -1,0 +1,31 @@
+.foter{
+    background-color: #1c2b32;
+}
+
+.footer{
+    padding-top: 50px;
+    padding-bottom: 30px;
+}
+
+@media(min-width:320px){
+
+    .contact{
+        margin-top: 40px;
+    }
+
+
+    .follow{
+        margin-top: 50px;
+    }
+}
+
+@media(min-width:1080px){
+    .contact{
+        margin-top: 0;
+    }
+
+
+    .follow{
+        margin-top: 0;
+    }
+}

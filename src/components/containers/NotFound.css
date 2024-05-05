@@ -1,0 +1,10 @@
+.not-found{
+    height: 400vh;
+}
+
+@media(min-width:320px){
+
+    .not-found{
+        height: auto;
+    }
+}
